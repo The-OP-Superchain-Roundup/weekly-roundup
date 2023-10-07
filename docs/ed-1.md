@@ -16,8 +16,8 @@ Ahead of the launch of native USDC, the Ethereum-bridged form of USDC on block e
 
 Users will have access to a dollar-backed stablecoin that’s fully reserved and always redeemable 1:1 for US dollars.
 
-Base
-friend.tech Witnesses 95% Drop in Trading Volume
+### Base
+#### friend.tech Witnesses 95% Drop in Trading Volume
 
 The trading volumes on the social media platform friend.tech have experienced a significant drop of 95%.
 
@@ -25,7 +25,7 @@ Despite sharp revenue decline, the friend.tech team has presented metrics demons
 
 New user growth slowed considerably, but existing users stayed active. Over 75% of key holders use the app daily, 50% still active weekly. 
 
-Aerodrome Reaches Over $170M Locked Within 24 Hours
+#### Aerodrome Reaches Over $170M Locked Within 24 Hours
 
 Aerodrome is a fork of Velodrome Finance, the largest DEX on Optimism in terms of revenue and TVL.
 
@@ -37,7 +37,7 @@ Base's total value locked (TVL) doubled to $390 million following the launch of 
 
 The growth of Aerodrome and Base's TVL is seen as a validation of the thesis that ecosystem-native DEXs can win, according to Aerodrome's co-founder Alexander Cutler.
 
-Base Mainnet Experienced a Half-Hour Outage
+#### Base Mainnet Experienced a Half-Hour Outage
 
 The Base mainnet experienced a half-hour outage on Sep 6 due to internal infrastructure issues.
 
@@ -47,8 +47,8 @@ This outage was the first major technical hiccup for Base, prompting comparisons
 
 The chain is now operational again.
 
-Public Goods Network
-PGN Mainnet secures over $300k for Ethereum Infrastructure Projects
+###Public Goods Network
+#### PGN Mainnet secures over $300k for Ethereum Infrastructure Projects
 
 Public Goods Network (PGN) launched its mainnet on July 25th. It aims to support public goods and provide an accessible platform for users and builders.
 
@@ -58,8 +58,8 @@ PGN allocates a significant portion of transaction fees to support public goods 
 
 Gitcoin's first round on PGN concluded successfully, securing over $300k funds for open-source Ethereum Infrastructure projects.
 
-Highlights of the Week
-Optimism and Base Announce Revenue Sharing and Token Swap Agreement, Valuing Base at $1.05 Billion
+## Highlights of the Week
+### Optimism and Base Announce Revenue Sharing and Token Swap Agreement, Valuing Base at $1.05 Billion
 
 Coinbase-backed Layer 2 Base and Optimism network's governance body, Optimism Collective, to collaborate on revenue and governance sharing agreement.
 
