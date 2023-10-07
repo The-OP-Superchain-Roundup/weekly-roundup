@@ -1,10 +1,12 @@
+# The OP Superchain Roundup #1
+
 🌟 Welcome to the 1st edition of The OP Superchain Roundup! 🌟
 
 Join us as we uncover the exciting world of the Optimism Ecosystem. In this newsletter, we'll bring you all the latest updates and developments on the OP Ecosystem. Let's get started!
 
-##Major happenings in the Ecosystem
-###OP Mainnet
-####Circle to Introduce Native USDC to OP Mainnet
+## Major happenings in the Ecosystem
+### OP Mainnet
+#### Circle to Introduce Native USDC to OP Mainnet
 
 Optimism and Circle have partnered to bring native support for USDC (Circle's stablecoin) to the OP Mainnet.
 
