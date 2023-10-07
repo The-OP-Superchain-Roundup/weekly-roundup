@@ -8,6 +8,7 @@ Join us as we uncover the exciting world of the Optimism Ecosystem. In this news
 ## Major happenings in the Ecosystem
 ### OP Mainnet
 #### Circle to Introduce Native USDC to OP Mainnet
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/e7cf6c45-cc23-4442-96b2-2e81b28753b8)
 
 Optimism and Circle have partnered to bring native support for USDC (Circle's stablecoin) to the OP Mainnet.
 
@@ -19,6 +20,7 @@ Users will have access to a dollar-backed stablecoin that’s fully reserved and
 
 ### Base
 #### friend.tech Witnesses 95% Drop in Trading Volume
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/1e430a06-d032-4823-a9b4-e5acff124ead)
 
 The trading volumes on the social media platform friend.tech have experienced a significant drop of 95%.
 
