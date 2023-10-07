@@ -6,14 +6,16 @@
 Join us as we uncover the exciting world of the Optimism Ecosystem. In this newsletter, we'll bring you all the latest updates and developments on the OP Ecosystem. Let's get started!
 
 ## Major happenings in the Ecosystem
-### OP Mainnet
-#### Circle to Introduce Native USDC to OP Mainnet
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/e7cf6c45-cc23-4442-96b2-2e81b28753b8)
+### Manta Pacific
+#### Alpha Mainnet Launch of Manta Pacific
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/bd62c5a7-6a3d-4aff-9758-96e2745311ed)
 
-- Optimism and Circle have partnered to bring native support for USDC (Circle's stablecoin) to the OP Mainnet.
-- USDC's native access on the Optimism blockchain will replace the Ethereum-bridged USDC.
-- Ahead of the launch of native USDC, the Ethereum-bridged form of USDC on block explorers will be renamed as USDC.e to facilitate smooth transition.
-- Users will have access to a dollar-backed stablecoin that’s fully reserved and always redeemable 1:1 for US dollars.
+- Manta Network has launched the mainnet of Manta Pacific, a Layer 2 blockchain for zero-knowledge-enabled apps.
+- Manta Pacific was developed using a modified version of Optimism's OP Stack by Caldera.
+- The network utilizes Celestia's data availability solution to reduce data fees and enable on-chain interactions.
+- Manta Network raised $25 million in a Series A funding round led by Polychain Capital.
+- During the testnet phase, Manta Pacific saw participation from over 150,000 wallet addresses.
+- The Pacific network already hosts applications such as zkHoldEm, zkMe, and zkPass, which leverage zero-knowledge circuits.
 
 ### Base
 #### friend.tech Witnesses 95% Drop in Trading Volume
