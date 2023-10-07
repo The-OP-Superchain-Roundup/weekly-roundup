@@ -50,7 +50,7 @@ This outage was the first major technical hiccup for Base, prompting comparisons
 
 The chain is now operational again.
 
-###Public Goods Network
+### Public Goods Network
 #### PGN Mainnet secures over $300k for Ethereum Infrastructure Projects
 ![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/57e957c7-85be-4b53-aace-524e87b2c4da)
 
