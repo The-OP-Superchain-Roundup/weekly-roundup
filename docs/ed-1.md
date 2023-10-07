@@ -1,4 +1,5 @@
 # The OP Superchain Roundup #1
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/011965cc-7ac0-4a14-8b2a-9e85252fa4fe)
 
 🌟 Welcome to the 1st edition of The OP Superchain Roundup! 🌟
 
