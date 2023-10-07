@@ -10,13 +10,10 @@ Join us as we uncover the exciting world of the Optimism Ecosystem. In this news
 #### Circle to Introduce Native USDC to OP Mainnet
 ![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/e7cf6c45-cc23-4442-96b2-2e81b28753b8)
 
-Optimism and Circle have partnered to bring native support for USDC (Circle's stablecoin) to the OP Mainnet.
-
-USDC's native access on the Optimism blockchain will replace the Ethereum-bridged USDC.
-
-Ahead of the launch of native USDC, the Ethereum-bridged form of USDC on block explorers will be renamed as USDC.e to facilitate smooth transition.
-
-Users will have access to a dollar-backed stablecoin that’s fully reserved and always redeemable 1:1 for US dollars.
+- Optimism and Circle have partnered to bring native support for USDC (Circle's stablecoin) to the OP Mainnet.
+- USDC's native access on the Optimism blockchain will replace the Ethereum-bridged USDC.
+- Ahead of the launch of native USDC, the Ethereum-bridged form of USDC on block explorers will be renamed as USDC.e to facilitate smooth transition.
+- Users will have access to a dollar-backed stablecoin that’s fully reserved and always redeemable 1:1 for US dollars.
 
 ### Base
 #### friend.tech Witnesses 95% Drop in Trading Volume
