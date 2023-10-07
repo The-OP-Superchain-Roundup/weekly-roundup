@@ -26,6 +26,8 @@ Despite sharp revenue decline, the friend.tech team has presented metrics demons
 New user growth slowed considerably, but existing users stayed active. Over 75% of key holders use the app daily, 50% still active weekly. 
 
 #### Aerodrome Reaches Over $170M Locked Within 24 Hours
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/6fdcdf19-745c-4d85-afbf-577af5d328cd)
+
 
 Aerodrome is a fork of Velodrome Finance, the largest DEX on Optimism in terms of revenue and TVL.
 
@@ -38,6 +40,7 @@ Base's total value locked (TVL) doubled to $390 million following the launch of 
 The growth of Aerodrome and Base's TVL is seen as a validation of the thesis that ecosystem-native DEXs can win, according to Aerodrome's co-founder Alexander Cutler.
 
 #### Base Mainnet Experienced a Half-Hour Outage
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/2d8cb3f5-4159-4235-bdbf-5c105cc4a547)
 
 The Base mainnet experienced a half-hour outage on Sep 6 due to internal infrastructure issues.
 
@@ -49,6 +52,8 @@ The chain is now operational again.
 
 ###Public Goods Network
 #### PGN Mainnet secures over $300k for Ethereum Infrastructure Projects
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/57e957c7-85be-4b53-aace-524e87b2c4da)
+
 
 Public Goods Network (PGN) launched its mainnet on July 25th. It aims to support public goods and provide an accessible platform for users and builders.
 
@@ -60,6 +65,7 @@ Gitcoin's first round on PGN concluded successfully, securing over $300k funds f
 
 ## Highlights of the Week
 ### Optimism and Base Announce Revenue Sharing and Token Swap Agreement, Valuing Base at $1.05 Billion
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/5f9a0a61-cf7a-48ac-827f-a9f3f525887d)
 
 Coinbase-backed Layer 2 Base and Optimism network's governance body, Optimism Collective, to collaborate on revenue and governance sharing agreement.
 
