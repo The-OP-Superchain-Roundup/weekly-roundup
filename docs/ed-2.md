@@ -17,68 +17,66 @@ Join us as we uncover the exciting world of the Optimism Ecosystem. In this news
 - During the testnet phase, Manta Pacific saw participation from over 150,000 wallet addresses.
 - The Pacific network already hosts applications such as zkHoldEm, zkMe, and zkPass, which leverage zero-knowledge circuits.
 
+### opBNB
+#### opBNB Mainnet is Live
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/8fbb31d3-c899-4d9c-8d06-0c39fe5ece97)
+
+
+- BNB Chain has publicly launched opBNB, a Layer 2 network aimed at scaling decentralized apps in the BNB Chain ecosystem.
+- opBNB was developed using Optimism's OP Stack and underwent comprehensive testing before the mainnet launch.
+- It allows developers to deploy Ethereum-compatible dApps on an off-chain layer, secured by BNB Smart Chain using optimistic rollup technology.
+- The goal is to increase transaction speed and reduce fees for dApps.
+- The opBNB testnet was launched in June, followed by a limited mainnet release in August.
+- The public mainnet launch concludes the testing phase.
+- opBNB is part of the BNB Chain ecosystem, which includes BNB Smart Chain, opBNB, zkBNB, BNB Beacon Chain, and BNB Greenfield.
+  
 ### Base
-#### friend.tech Witnesses 95% Drop in Trading Volume
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/1e430a06-d032-4823-a9b4-e5acff124ead)
+#### Base Ecosystem Fund Announces First Six Investments in Onchain Projects
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/c3a9b883-5fe8-4d5c-91f9-949b11fced39)
 
-The trading volumes on the social media platform friend.tech have experienced a significant drop of 95%.
+- The Base Ecosystem Fund, led by Coinbase Ventures, has announced its first six investments.
+- The fund aims to invest in onchain projects building on Base.
+- The first six investments are Avantis, BSX, Onboard, OpenCover, Paragraph, and Truflation.
+- Avantis is an oracle-based synthetic derivatives protocol.
+- BSX is building a decentralized limit order book for trading with leverage.
+- Onboard provides an onchain fiat-to-crypto path for users in developing markets.
+- OpenCover is an L2 insurance aggregator that protects against onchain risks.
+- Paragraph is an onchain creator platform for content creators.
+- Truflation is an onchain financial oracle that reports daily inflation data.
 
-Despite sharp revenue decline, the friend.tech team has presented metrics demonstrating that user engagement remains relatively robust.
+#### friend.tech Resurgence
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/3a7fc09e-4e52-414b-bbdd-6c8779f261ed)
 
-New user growth slowed considerably, but existing users stayed active. Over 75% of key holders use the app daily, 50% still active weekly. 
+- Decentralized social network friend.tech experiences a resurgence in user activity and total value locked (TVL).
+- Within the last four days, the TVL on friend.tech has doubled to surpass $30 million.
+- The platform witnessed $17.5 million in daily trading volume on September 13, the highest ever recorded.
+- Cumulative revenue exceeds $7 million with only a month of operation.
+- The surge in activity on friend.tech may be attributed to the perception that its chats are like yield farms and the addition of non-crypto figures joining the platform.
 
-#### Aerodrome Reaches Over $170M Locked Within 24 Hours
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/6fdcdf19-745c-4d85-afbf-577af5d328cd)
+### Synpase
+#### Synapse Labs Launches Testnets for Synapse Interchain Network (SIN) and Synapse Chain
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/c3078b91-b842-46b2-bc8f-287b377b76f5)
 
-
-Aerodrome is a fork of Velodrome Finance, the largest DEX on Optimism in terms of revenue and TVL.
-
-Aerodrome has surpassed Velodrome in terms of TVL, reaching over $170 million in just 24 hours.
-
-Aerodrome's success has enabled the Base network to jump ahead of zkSync Era and become the third-ranked L2 in terms of TVL after Arbitrum and Optimism.
-
-Base's total value locked (TVL) doubled to $390 million following the launch of Aerodrome.
-
-The growth of Aerodrome and Base's TVL is seen as a validation of the thesis that ecosystem-native DEXs can win, according to Aerodrome's co-founder Alexander Cutler.
-
-#### Base Mainnet Experienced a Half-Hour Outage
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/2d8cb3f5-4159-4235-bdbf-5c105cc4a547)
-
-The Base mainnet experienced a half-hour outage on Sep 6 due to internal infrastructure issues.
-
-The development team identified and resolved the issue, assuring users that no funds were at risk.
-
-This outage was the first major technical hiccup for Base, prompting comparisons to other blockchains like Solana.
-
-The chain is now operational again.
-
-### Public Goods Network
-#### PGN Mainnet secures over $300k for Ethereum Infrastructure Projects
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/57e957c7-85be-4b53-aace-524e87b2c4da)
-
-
-Public Goods Network (PGN) launched its mainnet on July 25th. It aims to support public goods and provide an accessible platform for users and builders.
-
-Users can bridge their assets to PGN through the official bridge or Layerswap bridge for seamless asset transfer and interoperability with Ethereum.
-
-PGN allocates a significant portion of transaction fees to support public goods projects, generating funding for them automatically when developers run dApps on the network.
-
-Gitcoin's first round on PGN concluded successfully, securing over $300k funds for open-source Ethereum Infrastructure projects.
+- Synapse Labs has launched testnets for the Synapse Chain and Synapse Interchain Network (SIN).
+- Synapse Chain is an Ethereum-based optimistic rollup that serves as the data availability layer for the Interchain Network.
+- Synapse Chain is built on the Syn OP stack, modified to be a natively interchain rollup.
+- SIN is an optimistic proof-of-stake interchain network that enables trustless communication and settlement between chains.
+- The Interchain Network uses Synapse Chain as its coordination hub, leveraging its transaction confirmation speed and Ethereum as the data availability layer of last resort.
+- The Synapse Interchain Network testnet is live, and contracts are deployed on Synapse Chain testnet, Arbitrum Sepolia, and Ethereum Sepolia.
 
 ## Highlights of the Week
-### Optimism and Base Announce Revenue Sharing and Token Swap Agreement, Valuing Base at $1.05 Billion
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/5f9a0a61-cf7a-48ac-827f-a9f3f525887d)
+### Should DAOs Build Their Own Appchains?
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/dd8675c0-4206-4ffa-baa5-dcd540b0d116)
 
-Coinbase-backed Layer 2 Base and Optimism network's governance body, Optimism Collective, to collaborate on revenue and governance sharing agreement.
-
-Base will contribute 2.5% of total sequencer revenue or 15% of net profits (whichever is greater) to Optimism Collective.
-
-In return, Base will receive up to 118 million OP tokens ($175 million) over six years.
-
-Base and OP Mainnet will share upgrades to remain compatible, homogeneous, and eventually interoperable in a Superchain future.
-
-Upgrades will be governed by Optimism governance.
-
-Our thoughts: This is a typical “stock swap” agreement that we often see in TradFi. In effect, OP used its 2.75% "equity" ($158 million) to exchange for 15% of Base Chain's "equity," valuing Base Chain at $1.05 billion. 
+- There’s been a discussion on Twitter between the Lyra team and the Thales team on whether it makes sense for a DAO to build their own appchain. Below are their arguments.
+- In favour of building own rollup (Muir)
+- Scaling Ethereum and achieving horizontal scalability are essential reasons for building a custom rollup.
+- Gas-intensive applications like Lyra v2 would struggle to compete for gas on existing rollup solutions.
+- Revenue generation is a significant advantage of running their own rollup, as it allows capturing fees instead of paying them to external L2 solutions.
+- Customizability enables features like sponsored transactions, simplifying user experiences and promoting mass adoption.
+- Against building own rollup (Danijel)
+- Creating and controlling an app chain centralizes everything, contradicting the decentralized nature of Ethereum.
+- Building a custom rollup forfeits the security inherited from the Ethereum network.
+- The fragmentation of liquidity and user base across multiple L2 solutions raises concerns about attracting Total Value Locked (TVL) to a custom chain and facilitating onboarding.
 
 That’s it for today, folks. See ya next Friday. 🧢
