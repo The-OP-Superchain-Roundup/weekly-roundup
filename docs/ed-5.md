@@ -68,6 +68,7 @@ Join us as we uncover the exciting world of the Optimism Ecosystem. In this news
 - OP Labs is a research and development firm associated with the Optimism Collective, which governs the Optimism Layer 2 network on Ethereum.
 - The system is designed to address a missing element in networks utilizing OP Labs' software and aims to build a multi-proof dispute system that incorporates zero-knowledge proofs.
 - The alpha release of the fault proof system marks a significant step towards a more decentralized and efficient Superchain.
+
 Our Thoughts: OP's been getting heat for security risks. The main worry is that transactions can be reversed or withdrawn by a central authority, which defeats the purpose of decentralization. This a certainly a move in the right direction.
 
 That’s it for today, folks. See ya next Friday. 🧢
