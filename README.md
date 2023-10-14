@@ -1,4 +1,5 @@
 # The OP Superchain Roundup
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/f922875e-6261-4a70-a2ec-6c05652bca8c)
 
 Join us as we uncover the exciting world of the Optimism Ecosystem. In this newsletter, we'll bring you all the latest updates and developments on the OP Ecosystem.
 
