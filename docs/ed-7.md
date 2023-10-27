@@ -3,56 +3,52 @@
 
 🌟 Welcome to the 7th edition of The OP Superchain Roundup! 🌟 
 
-This edition is slightly shorter than usual, as it covers a relatively calm week. Let’s get started!
+Join us as we uncover the exciting world of the Optimism Ecosystem. In this newsletter, we'll bring you all the latest updates and developments on the OP Ecosystem. Let's get started!
 
 ## Major happenings in the Ecosystem
-### Base
-#### Layer-2 Blockchains Dominate Ethereum Transactions in Q3
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/ef02ef22-723f-41d9-8055-3b38e9b9b7ab)
+### OP Mainnet
+#### Farcaster Launches Permissionless Onboarding
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/4fc4537a-1d6a-4292-874a-02732c117be7)
 
-- According to Messari's State of Ethereum report, Layer-2 networks accounted for 61% of all Ethereum transactions in the third quarter.
-- The surge in Layer-2 transactions was driven by the launch of Base and the popularity of the friend.tech social token platform.
-- Base, incubated by Coinbase, has seen significant growth and currently has a total value locked (TVL) of $448 million, making it one of the top layer-2 solutions.
-- Arbitrum is the most utilized Layer-2 solution with 600,000 average daily transactions, but Base and Optimism have caused a decline in its network activity.
-- The long-term expectation has always been that Layer-2 transactions would surpass those on Ethereum's mainnet.
-- Layer-2 solutions are seen as a scalable alternative to Ethereum's limited block space, and they are expected to gain more adoption as reputable financial institutions embrace the technology.
+- Farcaster, an Optimism-based decentralized social media protocol, has launched permissionless onboarding.
+- Users can now sign up and use the network without relying on another person or organization.
+- Farcaster offers the option to utilize any client of choice and provides full access to data and APIs for developers.
+- Farcaster charges an annual fee of $5 for user access.
+- The success of Farcaster will depend on how it handles content moderation to avoid being overrun by bots and spam.
+- The launch aligns with the rise of the web3 SocialFi sector, with other platforms like Friend Tech and Lens making progress in the space.
 
-#### Backed Finance Launches Tokenized BlackRock ETF on Base Network
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/e50a8731-c4e2-45da-b074-dd5755bc05f6)
+### opBNB
+#### opBNB-based AI Platform MyShell Raises $5.6 Million in Funding to Fuel Growth
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/710a3c19-b53d-4463-a490-908a538ad0e5)
 
-- Backed Finance has launched a tokenized government bond on the Base Network, a layer-2 network built on Optimism's OP stack.
-- The tokenization protocol has converted BlackRock's iShares bond ETF UCITS into a tokenized version with the ticker symbol "blBO1."
-- Backed Finance aims to tokenize real-world assets (RWAs), such as equities, commodities, art, or collectibles, stored in bank accounts.
-- Base Network was chosen for its promised support for builders and developers, and the collaboration began in February.
-- RWAs have gained attention in decentralized finance (DeFi) protocols like Aave and Maker as a means to generate revenue.
-- Fixed-income products, including non-USD denominated short-term bonds, are currently in high demand.
-- Backed Finance is open to tokenizing any requested security based on market demand.
-- U.S. investors are currently blocked from trading Backed's tokenized offerings.
+- MyShell, an opBNB-based AI platform, has raised $5.6 million in seed funding.
+- The funding round was led by INCE Capital, with participation from Hashkey Capital, Folius Ventures, SevenX Ventures, OP Crypto, and others.
+- The funding round included both equity and token warrants, valuing MyShell at $57 million.
+- MyShell allows users to create personalized chatbots called "Shells" and offers token rewards for creators and consumers.
+- The platform aims to bring a creator ecosystem to blockchain and address challenges in the AI landscape, such as transparency and misaligned incentives.
+- The platform already has over 30,000 creators and 400,000 users since its launch in May.
 
-### Governance
-#### Optimism’s Security Council
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/41f775b1-0e66-4134-b93d-9e4a213a2d32)
+### Infrastructure
+#### Celestia Concluded its Genesis Airdrop
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/d30c0554-3f85-4e40-a7bc-ee41a9f6cae0)
 
-- Season 5 incorporates feedback from the community and builds upon the initiatives from Season 4.
-- Season 4 introduced foundational concepts like Intents, Trust Tiers, Missions, Alliances, and Attestations.
-- Governance initiatives in Season 5 are organized based on different intents.
-- Each intent has its own budget to support aligned missions throughout the season.
-- Season 5 introduces new structures like the Security Council, Developer Advisory Board, and Anticapture Commission.
-- There will be a focus on progressing towards technical decentralization and growing the Superchain.
-- Trust Tiers will determine the level of rewards teams can request based on their contributions.
-- Attestations will be granted to high impact contributors.
-- The timeline includes a reflection period, voting cycles, council nominations, RetroPGF Round 3, and the start of Season 5.
+- Celestia, a modular blockchain network, has concluded its Genesis airdrop of its token $TIA.
+- Only 33% of the eligible addresses claimed the airdrop, with 191,391 addresses participating out of a total of 576,653.
+- The unclaimed tokens will be allocated to developers and accounts that had submitted addresses.
+- Celestia's mainnet is expected to be live in the coming weeks, and airdrop participants will receive $TIA tokens directly in their wallets.
+- Users can now check their finalized airdrop balance at http://genesis.celestia.org.
 
 ## Highlights of the Week
-### USDR by Tangible Faces 50% Crash and Liquidity Issues
-![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/32a049af-d024-4ffa-b363-c2f16142a6e8)
+### Manta Pacific Transitions from OP Stack to Polygon's CDK
+![image](https://github.com/The-OP-Superchain-Roundup/weekly-roundup/assets/147209458/28d5ce26-85e8-492a-9ac3-b7176adf0906)
 
-- Tangible's real estate stablecoin, Real USD (USDR), experienced a 50% crash in value due to a lack of liquidity caused by DAI redemptions.
-- Approximately $12 million worth of DAI was redeemed against USDR, leaving the coin 60% backed by real estate.
-- USDR is currently trading at $0.51.
-- USDR holds around $5.6 million in liquidity at Velodrome on Optimism and $3.0 million in liquidity at Aerodrome on Base.
-- Minting with the project-native TNGBL token is temporarily unavailable on the Tangible store.
-- Tangible tokenizes real estate, gold, watches, and wine, using them as backing for the USDR token.
-- The project owns 190 properties in the UK as NFTs, and gains from real estate investments are used to mint USDR and acquire more tokenized properties.
+- Manta Pacific network recently launched using OP Stack as an optimistic rollup layer-2 solution.
+- However, after only a few weeks, Manta has announced plans to transition to using Polygon's zkEVM and zk-rollup technology instead.
+- This is seen as a blow to OP Stack, which had gained traction with projects like Coinbase's new layer-2 chain choosing it.
+- ZK proofs can provide faster transaction "finality" than optimistic rollups currently offered by OP Stack.
+- However, OP Labs insists zk-rollups are not a threat since OP Stack will eventually support validity proofs like ZK.
+- A key reason for Manta's switch is concerns over security, as OP Stack still lacks fault proofs to secure transactions.
+- Fault proofs are core to optimistic rollups but still in testing phases on OP Stack testnets.
+- The move highlights ongoing competition between layer-2 infrastructure providers like OP Stack, Polygon, zkSync etc. to partner with new projects.
 
 That’s it for today, folks. See ya next Friday. 🧢
