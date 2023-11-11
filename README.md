@@ -5,7 +5,7 @@ Join us as we uncover the exciting world of the Optimism Ecosystem. In this news
 
 ## 2023
 
-- **November**：[Edition 9](docs/ed-9.md) |
+- **November**：[Edition 10](docs/ed-10.md) | [Edition 9](docs/ed-9.md) |
 - **October**：[Edition 8](docs/ed-8.md) | [Edition 7](docs/ed-7.md) | [Edition 6](docs/ed-6.md) | [Edition 5](docs/ed-5.md) |
 - **September**：[Edition 4](docs/ed-4.md) | [Edition 3](docs/ed-3.md) | [Edition 2](docs/ed-2.md) | [Edition 1](docs/ed-1.md) |
 
